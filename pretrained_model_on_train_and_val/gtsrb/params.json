@@ -1,0 +1,1 @@
+{"wd": 0.0005, "ckpdir": "./pretrained_model_on_train_and_val/", "imdbdir": "../ibm_project/residual_adapters/data/decathlon-1.0/annotations/", "wd3x3": [1.0], "datadir": "../ibm_project/residual_adapters/data/decathlon-1.0/", "seed": 0, "lr": 0.1, "step2": 100, "step1": 80, "factor": 1.0, "nb_epochs": 120}
